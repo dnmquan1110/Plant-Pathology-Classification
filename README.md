@@ -16,4 +16,6 @@ Specific objectives:
 In my kernel, I will visualize the data and create each folder for each category  of foliar diseases data images. Then, to increase the accuracy of the model, for each image
 for training, I use RandomFlip, RandomRotation and RandomZoom for more data to train.
 
+You can clone dataset from link here: https://github.com/quainhan1110/Plant_Pathology.git
+
 Dataset resources: https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11390
