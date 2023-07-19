@@ -1,5 +1,5 @@
 # Plant Pathology Classification with Tensorflow
-Plant Pathology 2020 - FGVC7 is a competition on Kaggle. The mission is to indetify the category of foliar diseases in apple trees.
+Plant Pathology 2020 - FGVC7 is a competition on Kaggle. The mission is to identify the category of foliar diseases in apple trees.
 
 Specific objectives:
 
